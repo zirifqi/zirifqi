@@ -9,7 +9,12 @@
   - ReactJS, Bootstrap  
 - 🌐 Check out my portfolio: [zirifqi.github.io](https://github.com/zirifqi)  
 - 💬 Connect with me on [LinkedIn](https://linkedin.com/in/zirifqi)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zirifqi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zirifqi&layout=compact&theme=radical)  
+
 - I’m looking to collaborate on **open-source projects** and personal repositories.
+
 
 
 <!---
