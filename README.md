@@ -1,7 +1,7 @@
 # Hi there, I'm Zirifqi! 👋
 
 - I’m @zirifqi  
-- I’m interested in **web programming**, focusing on both frontend and backend development.  
+- I’m interested in **web programming** and always open to learning new tech.  
 - I’m currently learning **NodeJS**, **ReactJS**, and **ExpressJS**.  
 - Technologies I’ve used:  
   - HTML, CSS, JavaScript  
@@ -10,10 +10,16 @@
 - 🌐 Check out my portfolio: [zirifqi.github.io](https://github.com/zirifqi)  
 - 💬 Connect with me on [LinkedIn](https://linkedin.com/in/zirifqi)  
 
+**My hobbies and activities outside programming:**  
+- 🎨 Digital art and graphic design  
+- 🎮 Playing video games  
+- ✈️ Exploring new cultures and places  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zirifqi&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zirifqi&layout=compact&theme=radical)  
 
 - I’m looking to collaborate on **open-source projects** and personal repositories.
+
 
 
 
