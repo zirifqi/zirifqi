@@ -1,9 +1,14 @@
 # Hi there, I'm Zirifqi! 👋
 
 - I’m @zirifqi  
-- I’m interested in **web programming**, exploring various frameworks.
-- I’m currently learning **NodeJS** and **ReactJS** to build awesome projects.  
+- I’m interested in **web programming**, focusing on frontend and backend development.  
+- I’m currently learning **NodeJS**, **ReactJS**, and **ExpressJS**.  
+- Technologies I’ve used:  
+  - HTML, CSS, JavaScript  
+  - NodeJS, ExpressJS  
+  - ReactJS, Bootstrap  
 - I’m looking to collaborate on **open-source projects** and personal repositories.
+
 
 
 <!---
