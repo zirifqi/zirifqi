@@ -1,7 +1,10 @@
-- Hi, I’m @zirifqi
-- I’m interested in web programming
-- I’m currently learning NodeJS and ReactJS
-- I’m looking to collaborate on my repo
+# Hi there, I'm Zirifqi! 👋
+
+- I’m @zirifqi  
+- I’m interested in **web programming**, exploring various frameworks.
+- I’m currently learning **NodeJS** and **ReactJS** to build awesome projects.  
+- I’m looking to collaborate on **open-source projects** and personal repositories.
+
 
 <!---
 zirifqi/zirifqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
