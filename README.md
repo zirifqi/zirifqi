@@ -15,16 +15,6 @@
 - 🎮 Playing video games  
 - ✈️ Exploring new cultures and places  
 
-**Quote I live by:**  
-_"The only way to do great work is to love what you do." – Steve Jobs_
-
-**My future goals:**  
-- 🚀 Build and contribute to impactful open-source projects  
-- 🌍 Collaborate with developers worldwide  
-- 📚 Continuously grow and improve as a software engineer
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zirifqi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zirifqi&layout=compact&theme=radical)  
 
 - I’m looking to collaborate on **open-source projects** and personal repositories.
 
